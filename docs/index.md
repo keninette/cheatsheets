@@ -1,2 +1,3 @@
 # 🏡 Home
-🖖 Greetings traveler !
+
+![Welcome](img/welcome.gif)

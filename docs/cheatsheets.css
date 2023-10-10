@@ -43,16 +43,17 @@
 .md-header__button.md-logo {
     background-color: var(--color-grey--dark);
     border-radius: 50%;
-    height: 5rem;
-    margin-top: 0.75rem;
-    width: 5rem;
+    height: 3rem;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+    width: 3rem;
     overflow: hidden;
 }
 
 .md-header__button.md-logo img {
     margin-left: -0.3rem;
-    height: 5rem;
-    width: 5rem;
+    height: inherit;
+    width: inherit;
 }
 
 .md-header__title {
@@ -60,12 +61,16 @@
     font-size: 2rem!important;
 }
 
+.md-header__title--active {
+    text-transform: uppercase;
+}
+
 /******************** Breadcrumb ********************/
-article p a:hover {
+article p:first-of-type a:hover {
     color: white!important;
 }
 
-article p a {
+article p:first-of-type a {
     color: darkgray!important;
 }
 
@@ -75,6 +80,15 @@ article p a {
 }
 
 /******************** Misc ********************/
+article p:not(:first-of-type) a {
+    color: var(--color-blue);
+}
+
+img {
+    display: flex;
+    margin: auto;
+}
+
 h1 {
     color: var(--color-red)!important;
     font-size: 3rem !important;
@@ -83,7 +97,7 @@ h1 {
 
 h2:before {
     color: var(--color-orange);
-    content: '## ';
+    content: '# ';
 }
 
 h2 {
@@ -100,4 +114,8 @@ h4 {
 
 h5 {
     color: var(--color-blue);
+}
+
+blockquote {
+    border-color: var(--color-blue)!important;
 }
