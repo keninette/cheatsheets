@@ -1,0 +1,11 @@
+# Default build target
+site/
+
+# Our build target
+public/
+
+# Our test build target
+test/
+
+# IDEs
+.idea
