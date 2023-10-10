@@ -61,24 +61,12 @@
 }
 
 /******************** Breadcrumb ********************/
-article p:first-of-type a:first-of-type {
-    color: var(--color-red);
+article p a:hover {
+    color: white!important;
 }
 
-article p:first-of-type a:nth-of-type(2) {
-    color: var(--color-orange);
-}
-
-article p:first-of-type a:nth-of-type(3) {
-    color: var(--color-lime);
-}
-
-article p:first-of-type a:nth-of-type(4) {
-    color: var(--color-green);
-}
-
-article p:first-of-type a:nth-of-type(5) {
-    color: var(--color-blue);
+article p a {
+    color: darkgray!important;
 }
 
 /******************** Nav ********************/
@@ -88,11 +76,28 @@ article p:first-of-type a:nth-of-type(5) {
 
 /******************** Misc ********************/
 h1 {
-    color: var(--color-blue)!important;
+    color: var(--color-red)!important;
     font-size: 3rem !important;
     text-align: center;
 }
 
 h2:before {
+    color: var(--color-orange);
     content: '## ';
+}
+
+h2 {
+    color: var(--color-orange);
+}
+
+h3 {
+    color: var(--color-lime--dark);
+}
+
+h4 {
+    color: var(--color-green);
+}
+
+h5 {
+    color: var(--color-blue);
 }
