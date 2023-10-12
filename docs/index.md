@@ -1,3 +1,3 @@
 # 🏡 Home
 
-![Welcome](img/welcome.gif)
+![Welcome](assets/img/welcome.gif)
