@@ -7,17 +7,33 @@ tags:
 
 # ⚛️ React
 
-## 🤮 Side effects
-[URL](https://circle.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25500210#overview)
+## 🛂 Controlled & uncontrolled components
+A controlled component is a component where the value & changes to the value are not handled in the component itself but in its parent component.
+The parent component controls the child component.
 
+In a form, a component is controlled when its value & changes are handled by a state, as opposed to the DOM (using `ref`).
+An uncontrolled component's value is not controlled by React but relies on the default behaviour of the DOM Element.
+
+### Stateless & Stateful components
+
+AKA:
+- Presentational vs stateful components
+- Dumb vs smart components
+
+### Sources
+[Udemy course part 1](https://circle.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture25596066#overview)
+
+[Udemy course part 2](https://circle.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture25598572#overview)
+
+[Medium article about controlled components](https://itnext.io/controlled-vs-uncontrolled-components-in-react-5cd13b2075f9)
+
+## 🤮 Side effects
 Everything that is not about rendering UI or reacting to user input:
 - Store data
 - Send HTTP requests
 - Manage timers
 
 ### UseEffect hook
-[URL](https://circle.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25599212#overview)
-
 ```js
 useEffect(myFunction, [dependencies]);
 ```
@@ -26,10 +42,14 @@ useEffect(myFunction, [dependencies]);
   - You can return a function (which is called a Cleanup function), that will be executed BEFORE the function passed as argument runs (except for the very first time);
 - `[dependencies]`: array of dependencies. If it's empty, it will only be executed the very first time the component is evaluation.
 
+### Sources
+[Udemy course part 1](https://circle.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25500210#overview)
+
+[Udemy course part 2](https://circle.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25599212#overview)
+
 ## 🤏 Reducers
 
 ### UseReducer hook
-[URL](https://circle.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25599224#overview)
 
 It's an alternative to `useState` if we need a more powerful state management, for examples if some states
 depends on one another.
@@ -44,8 +64,10 @@ const [state, dispatchFunction] = useReducer(reducerFunction, initialState, init
 - `initialState`: the initial state
 - `initFunction`: an init function for the state in case it's complex
 
+### Sources
+[Udemy course](https://circle.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25599224#overview)
+
 ## 👜 Context
-[URL](https://circle.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25599246#overview)
 
 It is used when you forward state to multiple components, it can also be called store.
 
@@ -154,6 +176,18 @@ return (<div>
   <Button onClick={context.onRegeneration()}>I don't want to go</Button>
 </div>);
 ```
+
+### Sources
+[Udemy course](https://circle.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25599246#overview)
+
+## 🐕 Fetch data
+
+In order to fetch data, we can either use `fetch()`, which is provided by any browser, or use the `axios` bundle.
+
+
+
+### Sources
+[Udemy course part 1](https://circle.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25599796#overview)
 
 ## 📚️ Sources
 - [Udemy react course](https://circle.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25595340#overview)
