@@ -3,6 +3,7 @@ nav:
   - 🏡 Home: index.md
   - 📚 References: references/index.md
   - 🧑‍🎓 Learning: learning/index.md
+  - ⚔️ Watch: watch/index.md
 theme:
   name: material
   language: en
@@ -26,7 +27,7 @@ theme:
     - navigation.top
     - navigation.sections
     - navigation.expand
-extra_css: [cheatsheets.css]
+extra_css: [assets/cheatsheets.css]
 plugins:
   - offline
   - search

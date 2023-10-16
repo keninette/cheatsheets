@@ -79,6 +79,11 @@ article p:first-of-type a {
     visibility: hidden;
 }
 
+/******************** Footer ********************/
+.md-footer-meta__inner {
+    justify-content: center;
+}
+
 /******************** Misc ********************/
 article p:not(:first-of-type) a {
     color: var(--color-blue);

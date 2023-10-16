@@ -1,8 +1,3 @@
----
-tags:
-  - react
----
-
 [🏡 Home](../index.md) > [Learning](index.md)
 
 # Learning
