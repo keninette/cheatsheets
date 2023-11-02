@@ -1,7 +1,6 @@
 site_name: kbj's cheatsheets
 nav:
   - 🏡 Home: index.md
-  - 📚 References: references/index.md
   - 🧑‍🎓 Learning: learning/index.md
   - ⚔️ Watch: watch/index.md
 theme:

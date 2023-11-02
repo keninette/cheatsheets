@@ -7,6 +7,16 @@ tags:
 
 # ⚛️ React
 
+## 🍕 React fragments or empty tags
+
+When we render a component, React expects all of our content to be contained in a single element (because behind the scene, when we use JSX, it uses the `createElement` method). As a matter of consequence, we need to add a wrapper, to contain our elements (like a `div` tag for example).
+
+But, most of the time, we don't want to create a wrapper just for this purpose, which is where React fragments come in. `<React.Fragment></>` acts as a wrapper without creating unwanted tags in the DOM. The empty tags notation (`<></>`) is just a shortcut to write these fragments.
+
+### Sources
+[A medium article about that](https://medium.com/fasal-engineering/what-are-react-fragments-or-the-react-empty-tags-190253582905)
+
+
 ## 🛂 Controlled & uncontrolled components
 A controlled component is a component where the value & changes to the value are not handled in the component itself but in its parent component.
 The parent component controls the child component.
