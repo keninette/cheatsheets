@@ -3,7 +3,7 @@ tags:
   - tag-demo
 ---
 
-[🏡 Home](../index.md) > [Learning](index.md) > [GCP](gcp.md)
+[🏡 Home](../index.md) > [Learning](index.md) > GCP
 
 # ☁️ Google Cloud Platform
 
