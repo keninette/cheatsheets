@@ -1,11 +1,13 @@
 ---
 tags:
-  - tag-demo
+  - gcp
+  - engine
+  - app-engine
 ---
 
 [🏡 Home](../index.md) > [Learning](index.md) > GCP
 
-# ☁️ Google Cloud Platform
+# ☁️ Google Cloud Platform - App Engine
 
 ## 🤓 Lexicon
 - **On-demand resource provisioning / Elasticity** : only rent resources when you need them and release them when you don't.
@@ -33,6 +35,13 @@ Machine name: follows the pattern family-workload-nb_of_cores.
 
 > Example:
 > E2-standard-2 : E2 family, standard workload with 2 cores.
+
+### Custom machine types
+
+- Available when creating a new VM by selecting "custom" in the machine type select list. 
+- Only available for E2, N2 or N1 machine types.
+- Support multiple OS.
+- Billed by vCPUs & memory provisioned per instance instance.
 
 ### How to automatically set-up your VM ?
 
@@ -74,6 +83,20 @@ All your images are stored in `GCE > Storage > Images`. From there, you can :
 - Create an instance directly from this image (but you'll need to redefine everything you could already have defined in a template).
 - Duplicate an existing template, specify the boot disk & select your custom image. In this case, you'll get all your customization & your custom-image.
 
+### 🕹️ About GPUs
+
+- In order to accelerate math & graphic intensive workloads.
+- Higher cost (no shit Sherlock 🕵️)
+- Make sure to **use images that include GPU libraries**
+- Restrictions:
+    - Not supported on all machine types
+    - Live migrations not available
+
+### 🤓 Best practices
+
+- Choose the right zone & regions (according to user location, cost, regulations...).
+- Choose the right machine types for your needs.
+- Use labels to indicate env, team, business unit, ...
 
 ### 🐞 Troubleshooting with Apache on a GCP VM
 [URL](https://circle.udemy.com/course/google-cloud-certification-associate-cloud-engineer/learn/lecture/25121436#overview)

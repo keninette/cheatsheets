@@ -16,6 +16,18 @@ But, most of the time, we don't want to create a wrapper just for this purpose, 
 ### Sources
 [A medium article about that](https://medium.com/fasal-engineering/what-are-react-fragments-or-the-react-empty-tags-190253582905)
 
+## 🟠🔵 Portals
+Portals are a way to render some children into a different part of the DOM.
+
+They are used to :
+- Render to a different part of the DOM.
+- Render a modal dialog inside a Modal component that can be displayed on the whole page with an overlay.
+- Render React components into non-React server markup
+- Render React components in non-React DOM nodes
+
+### Sources
+[React.dev](https://react.dev/reference/react-dom/createPortal)
+
 
 ## 🛂 Controlled & uncontrolled components
 A controlled component is a component where the value & changes to the value are not handled in the component itself but in its parent component.
