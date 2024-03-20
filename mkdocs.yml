@@ -3,6 +3,7 @@ nav:
   - 🏡 Home: index.md
   - 🧑‍🎓 Learning: learning/index.md
   - ⚔️ Watch: watch/index.md
+  - 🤓 Tips: tips/index.md
 theme:
   name: material
   language: en

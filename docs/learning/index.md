@@ -6,6 +6,7 @@
 [ReactJS cheatsheet](react.md)
 
 [🇫🇷 La mémoïsation](https://sebastoche.medium.com/limportance-de-la-m%C3%A9mo%C3%AFsation-en-react-js-1f47983fd1eb)
+[React UseMemp examples](https://medium.com/@agallardoysla/understanding-usememo-in-react-through-real-world-examples-3f4ab61fbe2b)
 
 ## 🪺 NestJS
 [NestJS cheatsheet](nestjs.md)
