@@ -7,6 +7,9 @@
 ## ⚛️ React
 - [Dynamic imports in React](https://medium.com/@shubham3480/dynamic-imports-in-react-3e3e7ad1d210)
 
+### NextJs
+- [Difference between Layouts & Templates](https://blog.stackademic.com/difference-between-layout-and-template-in-next-js-d97dba332f67)
+
 ## 🤞Tests
 - [Cypress best practices](https://docs.cypress.io/guides/references/best-practices)
 
@@ -16,6 +19,10 @@
 
 ## 🍿 UX
 - [Disabled buttons are baaaad, mkay ?](https://uxplanet.org/disabled-buttons-ux-usability-issues-and-how-to-avoid-them-8f2246186e80)
+
+## ✊ CSE (🇫🇷)
+- [Actionnariat salarié](https://www.economie.gouv.fr/entreprises/comment-fonctionne-lactionnariat-salarie)
+- [Actionnariat salarié](https://www.impots.gouv.fr/particulier/lactionnariat-salarie)
 
 ## ✅ Todo
 
