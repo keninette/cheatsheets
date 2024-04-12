@@ -24,6 +24,9 @@
 - [Actionnariat salarié](https://www.economie.gouv.fr/entreprises/comment-fonctionne-lactionnariat-salarie)
 - [Actionnariat salarié](https://www.impots.gouv.fr/particulier/lactionnariat-salarie)
 
+## 🍕 Misc
+- [A great article about CORS](https://levelup.gitconnected.com/cors-finally-explained-simply-ae42b52a70a3)
+
 ## ✅ Todo
 
 - Test postman & versionning des branches
