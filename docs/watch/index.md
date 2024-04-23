@@ -19,6 +19,7 @@
 
 ## 🍿 UX
 - [Disabled buttons are baaaad, mkay ?](https://uxplanet.org/disabled-buttons-ux-usability-issues-and-how-to-avoid-them-8f2246186e80)
+- [How to cleverly display data (avoid field -> value hell)](https://uxmovement.medium.com/a-better-way-to-display-data-than-field-value-e041cca9a6a9)
 
 ## ✊ CSE (🇫🇷)
 - [Actionnariat salarié](https://www.economie.gouv.fr/entreprises/comment-fonctionne-lactionnariat-salarie)
