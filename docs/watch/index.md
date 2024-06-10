@@ -5,7 +5,8 @@
 ![youknownothing.gif](..%2Fassets%2Fimg%2Fyouknownothing.gif)
 
 ## ⚛️ React
-- [Dynamic imports in React](https://medium.com/@shubham3480/dynamic-imports-in-react-3e3e7ad1d210)
+- [Dynamic imports](https://medium.com/@shubham3480/dynamic-imports-in-react-3e3e7ad1d210)
+- [Why we can't use indexes as keys](https://javascript.plainenglish.io/why-cant-we-use-indexes-as-keys-in-react-9f914f5910df)
 
 ### NextJs
 - [Difference between Layouts & Templates](https://blog.stackademic.com/difference-between-layout-and-template-in-next-js-d97dba332f67)
