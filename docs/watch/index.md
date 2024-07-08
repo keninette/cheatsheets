@@ -7,6 +7,7 @@
 ## ⚛️ React
 - [Dynamic imports](https://medium.com/@shubham3480/dynamic-imports-in-react-3e3e7ad1d210)
 - [Why we can't use indexes as keys](https://javascript.plainenglish.io/why-cant-we-use-indexes-as-keys-in-react-9f914f5910df)
+- [Stop controlling every form](https://mostlyfocusedmike.medium.com/stop-controlling-every-form-in-react-use-formdata-instead-c26d89409afe)
 
 ### NextJs
 - [Difference between Layouts & Templates](https://blog.stackademic.com/difference-between-layout-and-template-in-next-js-d97dba332f67)
@@ -28,6 +29,7 @@
 
 ## 🍕 Misc
 - [A great article about CORS](https://levelup.gitconnected.com/cors-finally-explained-simply-ae42b52a70a3)
+- [Difference between || and ?? in js](https://medium.com/coding-beauty/javascript-logical-or-vs-nullish-coalescing-operator-6c711b08d583)
 
 ## ✅ Todo
 
