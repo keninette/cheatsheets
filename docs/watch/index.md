@@ -9,7 +9,11 @@
 - [Why we can't use indexes as keys](https://javascript.plainenglish.io/why-cant-we-use-indexes-as-keys-in-react-9f914f5910df)
 - [Stop controlling every form](https://mostlyfocusedmike.medium.com/stop-controlling-every-form-in-react-use-formdata-instead-c26d89409afe)
 
-### NextJs
+### Design patterns
+- [The render prop](https://javascript.plainenglish.io/react-design-pattern-the-render-prop-208f37f9ec2e)
+- [Compound components](https://javascript.plainenglish.io/compound-components-pattern-in-react-4c176c18f9ba)
+
+## NextJs
 - [Difference between Layouts & Templates](https://blog.stackademic.com/difference-between-layout-and-template-in-next-js-d97dba332f67)
 
 ## 🤞Tests
@@ -31,6 +35,8 @@
 ## 🍕 Misc
 - [A great article about CORS](https://levelup.gitconnected.com/cors-finally-explained-simply-ae42b52a70a3)
 - [Difference between || and ?? in js](https://medium.com/coding-beauty/javascript-logical-or-vs-nullish-coalescing-operator-6c711b08d583)
+- [Stop testing your code](https://medium.com/xendit-engineering/stop-testing-your-code-06c46dbb6554)
+- [Mock new Date() with jest](https://www.benoitpaul.com/blog/javascript/jest-mock-date/)
 
 ## ✅ Todo
 
