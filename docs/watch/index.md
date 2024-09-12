@@ -22,6 +22,7 @@
 ## 🎨 UI
 - [Icon design trends for 2024](https://uxplanet.org/icon-design-trends-for-2024-703cd080436e)
 - [Dark patterns & why the Indian Government banned them](https://bootcamp.uxdesign.cc/dark-patterns-are-now-illegal-in-india-6b3c35c5ce50)
+- [It's all 'bout the buttons](https://uxdesign.cc/button-design-user-interface-components-series-85243b6736c7)
 
 ## 🍿 UX
 - [Disabled buttons are baaaad, mkay ?](https://uxplanet.org/disabled-buttons-ux-usability-issues-and-how-to-avoid-them-8f2246186e80)
