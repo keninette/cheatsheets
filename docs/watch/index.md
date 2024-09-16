@@ -8,6 +8,8 @@
 - [Dynamic imports](https://medium.com/@shubham3480/dynamic-imports-in-react-3e3e7ad1d210)
 - [Why we can't use indexes as keys](https://javascript.plainenglish.io/why-cant-we-use-indexes-as-keys-in-react-9f914f5910df)
 - [Stop controlling every form](https://mostlyfocusedmike.medium.com/stop-controlling-every-form-in-react-use-formdata-instead-c26d89409afe)
+- [10 common mistakes React developers make](https://simuratli.medium.com/10-common-mistakes-react-developers-make-and-how-to-avoid-them-53bceadc6954)
+- [10 JS mistakes even senior developers make](https://javascript.plainenglish.io/10-javascript-mistakes-even-senior-developers-make-and-how-to-avoid-them-f0e0fafdd603)
 
 ### Design patterns
 - [The render prop](https://javascript.plainenglish.io/react-design-pattern-the-render-prop-208f37f9ec2e)
@@ -28,6 +30,14 @@
 - [Disabled buttons are baaaad, mkay ?](https://uxplanet.org/disabled-buttons-ux-usability-issues-and-how-to-avoid-them-8f2246186e80)
 - [How to cleverly display data (avoid field -> value hell)](https://uxmovement.medium.com/a-better-way-to-display-data-than-field-value-e041cca9a6a9)
 - [How to design user friendly forms](https://medium.com/yld-blog/how-to-design-user-friendly-forms-f71b37ec959e)
+- [Best practices for Dropdown menus](https://uxplanet.org/10-best-practices-for-designing-drop-down-menu-b8f8705c9641)
+
+## 🍵 JS
+- [9 powerful features of ES2024](https://medium.com/@asierr/9-powerful-features-of-es2024-that-will-change-how-you-write-javascript-daa9d8a58e36)
+- [Difference between || and ?? in js](https://medium.com/coding-beauty/javascript-logical-or-vs-nullish-coalescing-operator-6c711b08d583)
+
+## 💄CSS
+- [CSS tricks to avoid JS in menus, tabs & snap blocks](https://medium.com/@bogdanfromkyiv/no-js-required-you-can-do-this-with-css-e4635e40502c)
 
 ## ✊ CSE (🇫🇷)
 - [Actionnariat salarié](https://www.economie.gouv.fr/entreprises/comment-fonctionne-lactionnariat-salarie)
@@ -35,7 +45,6 @@
 
 ## 🍕 Misc
 - [A great article about CORS](https://levelup.gitconnected.com/cors-finally-explained-simply-ae42b52a70a3)
-- [Difference between || and ?? in js](https://medium.com/coding-beauty/javascript-logical-or-vs-nullish-coalescing-operator-6c711b08d583)
 - [Stop testing your code](https://medium.com/xendit-engineering/stop-testing-your-code-06c46dbb6554)
 - [Mock new Date() with jest](https://www.benoitpaul.com/blog/javascript/jest-mock-date/)
 
