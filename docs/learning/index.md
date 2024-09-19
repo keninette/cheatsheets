@@ -31,3 +31,6 @@
 
 ## 🖌️ SASS & BEM
 - [Sass & BEM scope control](https://css-tricks.com/using-sass-control-scope-bem-naming/)
+
+## 🌳Cypress
+- [Cypress course notes](cypress.md)
