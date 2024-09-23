@@ -10,6 +10,7 @@
 - [Stop controlling every form](https://mostlyfocusedmike.medium.com/stop-controlling-every-form-in-react-use-formdata-instead-c26d89409afe)
 - [10 common mistakes React developers make](https://simuratli.medium.com/10-common-mistakes-react-developers-make-and-how-to-avoid-them-53bceadc6954)
 - [10 JS mistakes even senior developers make](https://javascript.plainenglish.io/10-javascript-mistakes-even-senior-developers-make-and-how-to-avoid-them-f0e0fafdd603)
+- [How to optimize React](https://medium.com/@onix_react/react-optimization-techniques-e384b1ceb794)
 
 ### Design patterns
 - [The render prop](https://javascript.plainenglish.io/react-design-pattern-the-render-prop-208f37f9ec2e)
@@ -38,6 +39,8 @@
 
 ## 💄CSS
 - [CSS tricks to avoid JS in menus, tabs & snap blocks](https://medium.com/@bogdanfromkyiv/no-js-required-you-can-do-this-with-css-e4635e40502c)
+- [10 CSS tricks](https://medium.com/@arnoldgunter/10-css-tricks-that-saved-me-plenty-of-work-and-time-3698e69d7bac)
+- [Modern viewport units](https://medium.com/@dimeloper/viewport-height-and-width-units-in-modern-css-1cc919392fde)
 
 ## ✊ CSE (🇫🇷)
 - [Actionnariat salarié](https://www.economie.gouv.fr/entreprises/comment-fonctionne-lactionnariat-salarie)
