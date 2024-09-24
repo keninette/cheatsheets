@@ -36,6 +36,9 @@
 ## 🍵 JS
 - [9 powerful features of ES2024](https://medium.com/@asierr/9-powerful-features-of-es2024-that-will-change-how-you-write-javascript-daa9d8a58e36)
 - [Difference between || and ?? in js](https://medium.com/coding-beauty/javascript-logical-or-vs-nullish-coalescing-operator-6c711b08d583)
+- [The ?= operator](https://medium.com/coding-beauty/new-javascript-operator-1e60dea05654)
+- [ts-pattern examples](https://tauantcamargo.medium.com/how-ts-pattern-can-improve-your-code-readability-d64996841646)
+- [Better JS understanding](https://levelup.gitconnected.com/if-you-can-answer-these-7-questions-correctly-youre-decent-at-javascript-71e0ce9d7ac9)
 
 ## 💄CSS
 - [CSS tricks to avoid JS in menus, tabs & snap blocks](https://medium.com/@bogdanfromkyiv/no-js-required-you-can-do-this-with-css-e4635e40502c)
@@ -50,6 +53,9 @@
 - [A great article about CORS](https://levelup.gitconnected.com/cors-finally-explained-simply-ae42b52a70a3)
 - [Stop testing your code](https://medium.com/xendit-engineering/stop-testing-your-code-06c46dbb6554)
 - [Mock new Date() with jest](https://www.benoitpaul.com/blog/javascript/jest-mock-date/)
+- [JWT pros & cons](https://blog.stackademic.com/why-do-many-people-not-recommend-using-jwt-9147b2c899f8)
+- [HTML blocking attribute](https://medium.com/javascript-zone/a-deep-dive-into-htmls-new-blocking-attribute-12ccb3243341)
+- [Rare HTMl tags](https://medium.com/coding-beauty/rare-html-tags-9ed55211acd5)
 
 ## ✅ Todo
 
