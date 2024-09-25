@@ -11,6 +11,7 @@
 - [10 common mistakes React developers make](https://simuratli.medium.com/10-common-mistakes-react-developers-make-and-how-to-avoid-them-53bceadc6954)
 - [10 JS mistakes even senior developers make](https://javascript.plainenglish.io/10-javascript-mistakes-even-senior-developers-make-and-how-to-avoid-them-f0e0fafdd603)
 - [How to optimize React](https://medium.com/@onix_react/react-optimization-techniques-e384b1ceb794)
+- [3 rules to follow in React components](https://levelup.gitconnected.com/follow-these-3-rules-in-your-react-components-or-i-will-ask-you-to-refactor-896a45170425)
 
 ### Design patterns
 - [The render prop](https://javascript.plainenglish.io/react-design-pattern-the-render-prop-208f37f9ec2e)
