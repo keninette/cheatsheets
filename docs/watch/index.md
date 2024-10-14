@@ -45,6 +45,10 @@
 - [CSS tricks to avoid JS in menus, tabs & snap blocks](https://medium.com/@bogdanfromkyiv/no-js-required-you-can-do-this-with-css-e4635e40502c)
 - [10 CSS tricks](https://medium.com/@arnoldgunter/10-css-tricks-that-saved-me-plenty-of-work-and-time-3698e69d7bac)
 - [Modern viewport units](https://medium.com/@dimeloper/viewport-height-and-width-units-in-modern-css-1cc919392fde)
+- [The :has selector](https://adevnadia.medium.com/replacing-react-code-with-css-has-selector-0ed11469bfbe)
+
+## 🏷️ Good old html
+- [A complete guide to shadow DOM](https://blog.stackademic.com/shadow-dom-a-complete-guide-5201df719a17)
 
 ## ✊ CSE (🇫🇷)
 - [Actionnariat salarié](https://www.economie.gouv.fr/entreprises/comment-fonctionne-lactionnariat-salarie)
