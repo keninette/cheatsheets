@@ -1,0 +1,126 @@
+:root {
+    --color-red: rgb(255, 96, 96, 1);
+    --color-red--dark: rgb(255, 96, 96, 0.8);
+    --color-orange: rgb(253, 180, 58);
+    --color-orange--dark: rgb(253, 180, 58, 0.8);
+    --color-yellow: rgb(228, 239, 100);
+    --color-lime: rgb(230, 243, 82);
+    --color-lime--dark: rgb(230, 243, 82, 0.8);
+    --color-green: rgb(110, 231, 106);
+    --color-green--dark: rgb(110, 231, 106, 0.8);
+    --color-blue: rgb(106, 183, 231);
+    --color-blue--dark: rgb(106, 183, 231, 0.8);
+    --color-grey--dark: #1a1a1a;
+}
+
+/******************** Header ********************/
+.md-header {
+    background: linear-gradient(
+        90deg,
+        var(--color-red) 0%,
+        var(--color-orange) 25%,
+        var(--color-lime) 40%,
+        var(--color-green) 60%,
+        var(--color-blue) 80%
+    ) !important;
+}
+
+.md-tabs {
+    background: linear-gradient(
+        90deg,
+        var(--color-red--dark) 0%,
+        var(--color-orange--dark) 25%,
+        var(--color-lime--dark) 40%,
+        var(--color-green--dark) 60%,
+        var(--color-blue--dark) 80%
+    ) !important;
+}
+
+.md-tabs__list li a {
+    font-size: 0.8rem;
+}
+
+.md-header__button.md-logo {
+    background-color: var(--color-grey--dark);
+    border-radius: 50%;
+    height: 3rem;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+    width: 3rem;
+    overflow: hidden;
+}
+
+.md-header__button.md-logo img {
+    margin-left: -0.3rem;
+    height: inherit;
+    width: inherit;
+}
+
+.md-header__title {
+    color: var(--color-grey--dark);
+    font-size: 2rem!important;
+}
+
+.md-header__title--active {
+    text-transform: uppercase;
+}
+
+/******************** Breadcrumb ********************/
+article p:first-of-type a:hover {
+    color: white!important;
+}
+
+article p:first-of-type a {
+    color: darkgray!important;
+}
+
+/******************** Nav ********************/
+.md-sidebar:not(.md-sidebar--secondary) {
+    visibility: hidden;
+}
+
+/******************** Footer ********************/
+.md-footer-meta__inner {
+    justify-content: center;
+}
+
+/******************** Misc ********************/
+article p:not(:first-of-type) a {
+    color: var(--color-blue);
+}
+
+img {
+    display: flex;
+    margin: auto;
+}
+
+h1 {
+    color: var(--color-red)!important;
+    font-size: 3rem !important;
+    text-align: center;
+}
+
+h2:before {
+    color: var(--color-orange);
+    content: '# ';
+}
+
+h2 {
+    color: var(--color-orange);
+}
+
+h3 {
+    color: var(--color-lime--dark);
+}
+
+h4 {
+    color: var(--color-green);
+}
+
+h5 {
+    color: var(--color-blue);
+}
+
+blockquote {
+    border-color: var(--color-blue)!important;
+}
