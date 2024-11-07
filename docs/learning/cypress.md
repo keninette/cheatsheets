@@ -101,12 +101,14 @@ There are 4 tests hooks to remember :
 
 Commands & queries are tools to import into Cypress core some actions you need to perform throughout your whole project (or a majority of files).
 
-Commands are often here to perform actions, whereas queries usually return something.
+Commands are re-usable shortcuts for complex command chains.
+Queries are synchronous, chainable retriable commands.
 
 Some relevant examples might be:
 - A command to login to the app before running tests.
-- A query to mock fetching current user data.
-- A query to mock any API call, which could reflect your API structure.
+- A command to mock fetching current user data.
+- A command to mock any API call, which could reflect your API structure.
+- A query to get an element by its data-cy attribute, that would return the element
 
 ### Tasks
 Tasks are functions that can be defined in Cypress config file & then called inside tests or tests hooks. They are very useful if you need to run code that cannot be executed in a browser.
