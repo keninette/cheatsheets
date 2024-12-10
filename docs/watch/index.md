@@ -12,10 +12,13 @@
 - [10 JS mistakes even senior developers make](https://javascript.plainenglish.io/10-javascript-mistakes-even-senior-developers-make-and-how-to-avoid-them-f0e0fafdd603)
 - [How to optimize React](https://medium.com/@onix_react/react-optimization-techniques-e384b1ceb794)
 - [3 rules to follow in React components](https://levelup.gitconnected.com/follow-these-3-rules-in-your-react-components-or-i-will-ask-you-to-refactor-896a45170425)
+- [React 19 & memoization](https://javascript.plainenglish.io/goodbye-memo-usememo-usecallback-in-react-19-9a41587abf4f)
+- [Custom hooks in react](https://levelup.gitconnected.com/custom-hooks-the-ultimate-tool-to-become-a-senior-react-developer-5c1cb9acf41c)
 
 ### Design patterns
 - [The render prop](https://javascript.plainenglish.io/react-design-pattern-the-render-prop-208f37f9ec2e)
 - [Compound components](https://javascript.plainenglish.io/compound-components-pattern-in-react-4c176c18f9ba)
+- [Container/presenter, HOC, Render props, Compound Components, Custom hooks](https://javascript.plainenglish.io/5-react-design-patterns-you-should-know-19f2b4985f71)
 
 ## NextJs
 - [Difference between Layouts & Templates](https://blog.stackademic.com/difference-between-layout-and-template-in-next-js-d97dba332f67)
@@ -40,6 +43,7 @@
 - [The ?= operator](https://medium.com/coding-beauty/new-javascript-operator-1e60dea05654)
 - [ts-pattern examples](https://tauantcamargo.medium.com/how-ts-pattern-can-improve-your-code-readability-d64996841646)
 - [Better JS understanding](https://levelup.gitconnected.com/if-you-can-answer-these-7-questions-correctly-youre-decent-at-javascript-71e0ce9d7ac9)
+- [Tyescript Interfaces vs Types](https://medium.com/@h5game/stop-using-typescript-interfaces-8e7ae29686b4)
 
 ## 💄CSS
 - [CSS tricks to avoid JS in menus, tabs & snap blocks](https://medium.com/@bogdanfromkyiv/no-js-required-you-can-do-this-with-css-e4635e40502c)
