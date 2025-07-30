@@ -50,6 +50,7 @@
 - [10 CSS tricks](https://medium.com/@arnoldgunter/10-css-tricks-that-saved-me-plenty-of-work-and-time-3698e69d7bac)
 - [Modern viewport units](https://medium.com/@dimeloper/viewport-height-and-width-units-in-modern-css-1cc919392fde)
 - [The :has selector](https://adevnadia.medium.com/replacing-react-code-with-css-has-selector-0ed11469bfbe)
+- [View transition](https://medium.com/@karstenbiedermann/how-one-line-of-css-can-make-your-multi-page-app-feel-like-an-spa-c02957ec3589)
 
 ## 🏷️ Good old html
 - [A complete guide to shadow DOM](https://blog.stackademic.com/shadow-dom-a-complete-guide-5201df719a17)
